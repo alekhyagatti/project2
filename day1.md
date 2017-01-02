@@ -14,7 +14,10 @@
 
 ## Points to be Noted
 
-[To get Machine Stats](http://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)
+> [To get Machine Stats](http://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)
+> To get ip number of some site in linux --> dig google.com
+> To get ip number of some site in cmd   --> ping google.com
+
 
 ## GIT
 > To install git in linux
@@ -25,8 +28,8 @@
 > Give global variables
 >	1. git config --global user.name "alekhya.gatti"
 >	2. git config --global user.email "alekhya.gatti@hcl.com"
+
 > Create a repository in github (project1)
->
 >	1. echo "# project1" >> README.md
 >	2. git init
 >	3. git add README.md
