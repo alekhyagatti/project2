@@ -35,10 +35,24 @@
 2.  McHale
 3.  Parish
 
-*   Bird
-*   Magic
-
 Check out [polymer-project.org](https://www.polymer-project.org) for all of the library documentation, including getting started guides, tutorials, developer reference, and more.
 
 Or if you'd just like to download the library, check out our [releases page](https://github.com/polymer/polymer/releases).
+
+
+```js
+// Create an element that takes a property
+Polymer({
+    is: 'my-property-namecard',
+    properties: {
+      myName: {
+        type: String
+      }
+    },
+    ready: function() {
+      this.textContent = 'Hi! My name is ' + this.myName;
+    }
+});
+```
+
 
