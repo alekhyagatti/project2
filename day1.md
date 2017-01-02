@@ -11,12 +11,19 @@
 3. [CoreUtils](http://www.gnu.org/software/coreutils/manual/coreutils.html)
 4. [Shell Scripting](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
 5. [ING Training](http://ing-training.kramarao.com/basic/machine-basics/)
+6. [Mkdocs](http://www.mkdocs.org/user-guide/styling-your-docs/)
+7. [Markdown](https://daringfireball.net/projects/markdown/syntax)
+8. [Pandoc](http://pandoc.org/demos.html)
+
 
 ## Points to be Noted
 
 1. [To get Machine Stats](http://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)
 2. To get ip number of some site in linux --> dig google.com
 3. To get ip number of some site in cmd   --> ping google.com
+4. Install pandoc and create word document --> sudo apt-get install pandoc
+						vi a.md
+						pandoc -s -S a.md -o example29.docx
 
 
 ## GIT
