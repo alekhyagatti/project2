@@ -14,9 +14,9 @@
 
 ## Points to be Noted
 
-> [To get Machine Stats](http://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)
-> To get ip number of some site in linux --> dig google.com
-> To get ip number of some site in cmd   --> ping google.com
+1. [To get Machine Stats](http://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)
+2. To get ip number of some site in linux --> dig google.com
+3. To get ip number of some site in cmd   --> ping google.com
 
 
 ## GIT
