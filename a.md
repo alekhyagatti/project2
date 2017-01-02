@@ -20,15 +20,7 @@
 <!-- Use element -->
 <google-map latitude="37.790" longitude="-122.390"></google-map>
 ```
-
-> This is the first level of quoting.
->
-> > This is nested blockquote.
->
-> Back to the first level.
-
-
-> ## This is a header.
+> #  This is a header.
 > 
 > 1.   This is the first list item.
 > 2.   This is the second list item.
@@ -37,15 +29,16 @@
 
 + Red
 + Green
-+ Blue 
-
--   Red
--   Green
--   Blue
++ Blue
 
 1.  Bird
 2.  McHale
 3.  Parish
 
+*   Bird
+*   Magic
 
+Check out [polymer-project.org](https://www.polymer-project.org) for all of the library documentation, including getting started guides, tutorials, developer reference, and more.
+
+Or if you'd just like to download the library, check out our [releases page](https://github.com/polymer/polymer/releases).
 
