@@ -15,3 +15,27 @@
 ## Points to be Noted
 
 [To get Machine Stats](http://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)
+
+## GIT
+> To install git in linux
+>	1. sudo apt update
+>	2. sudo apt-get update
+>	3. sudo apt-get install git
+
+> Give global variables
+>	1. git config --global user.name "alekhya.gatti"
+>	2. git config --global user.email "alekhya.gatti@hcl.com"
+> Create a repository in github (project1)
+>
+>	1. echo "# project1" >> README.md
+>	2. git init
+>	3. git add README.md
+>	4. git commit -m "first commit"
+>	5. git remote add origin git@github.com:alekhyagatti/project1.git
+>	6. git push -u origin master 
+>
+> Create branch
+>	
+>	1. git checkout -b [name_of_your_new_branch]
+>	2. git push origin [name_of_your_new_branch]
+
